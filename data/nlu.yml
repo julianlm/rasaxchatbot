@@ -75,3 +75,6 @@ nlu:
     - extremly sad
     - so saad
     - so sad
+- intent: saludo
+  examples: |
+    - Hola
